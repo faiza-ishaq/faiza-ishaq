@@ -1,6 +1,6 @@
 # Hi, I'm Faiza Ishaq 👋
 
-Telecommunications engineering graduate from NED University, currently building my path into network security.
+Telecommunications engineering graduate from NED University, currently building my path into network & data security.
 
 My degree taught me how data travels across networks. Now I'm learning how that data gets attacked and how it gets protected.
 
