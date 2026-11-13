@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @faiza-ishaq
-- 🤩 I’m interested in coding.
-- 🌱 I’m currently majoring in Telecommunications Engineering.
-- 💞️ I’m looking to collaborate on projects.
-  
+# Hey, I'm Faiza.
 
-<!---
-faiza-ishaq/faiza-ishaq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Telecommunications engineer with an interest in cybersecurity, networks, and the technology that connects it all. I spend my time learning, experimenting with tools & technologies, and exploring ideas that catch my curiosity.
+
+Always learning, building, and figuring things out along the way.
